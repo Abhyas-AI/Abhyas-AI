@@ -120,7 +120,8 @@ Find your dream jobs in seconds with intelligent job matching powered by AI.
 
 <div align="center">
   <img src="Developer.png" alt="Developer" width="150" height="150" style="border-radius: 50%;">
-  
+
+  <strong>Gampa Sai Sasivardhan</strong><br>
   **Passionate Robotics Enthusiast & AI Developer**
   
   [![Portfolio](https://img.shields.io/badge/🌟_View_Portfolio-FF6B6B?style=for-the-badge)](https://saisasi2004.github.io/My-Portfolio/)

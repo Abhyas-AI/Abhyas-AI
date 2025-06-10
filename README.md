@@ -139,7 +139,7 @@ Get personalized coaching sessions with industry experts to fine-tune your inter
   <strong>Gampa Sai Sasivardhan</strong><br>
   **Passionate Robotics Enthusiast & AI Developer**
   
-  [![Portfolio](https://img.shields.io/badge/🌟_View_Portfolio-FF6B6B?style=for-the-badge)](https://saisasi2004.github.io/My-Portfolio/)
+  [![Portfolio](https://img.shields.io/badge/🌟_View_Portfolio-FF6B6B?style=for-the-badge)](https://saisasi2004.github.io/saisasi2004/)
   
 </div>
 

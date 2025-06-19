@@ -54,6 +54,12 @@ Boost your resume with AI tips that align with real job descriptions and recruit
 ### 🧪 **AI Quiz Coach**
 Test your knowledge with intelligent quizzes that adapt to your skill level and provide detailed explanations for better learning.
 
+### 🧾 **Dashboard Analytics**  
+Track your performance over time with personalized charts and score histories across all tools.
+
+### 📊 **Leaderboard (Gamified)**  
+See how you rank in Mock Interviews, Coding, Quizzes, and Group Discussions. Climb the Top 10!
+
 </td>
 <td width="50%">
 
@@ -74,6 +80,12 @@ Transform your Github & Linkedin portfolio with AI-driven suggestions to showcas
 
 ### 🎯 **Interview with Expert** *(Coming Soon)*
 Get personalized coaching sessions with industry experts to fine-tune your interview performance.
+
+### 🤖 **Telegram Bot Assistant**  
+Get daily reminders, tool suggestions, and performance analysis directly on Telegram — personalized and smart.
+
+### 🌟 **Success Stories Portal**  
+Read and share real stories from Abhyas AI users who cracked interviews and landed their dream roles.
 
 </td>
 </tr>
